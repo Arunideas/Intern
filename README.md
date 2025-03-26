@@ -38,7 +38,8 @@
 ## Additional Features
 - **Notifications** – Automated alerts for students and employers regarding job applications and matches.  
 - **Chat System** – Integrated communication between students and employers.  
-- **Admin Panel** – Centralized management for users, job postings, and payments.  
+- **Admin Panel** – Centralized management for users, job postings, and payments.
+- **Payment Gatewya Integration** - Integrate with Paypal and Razorpay. 
 
 ## Development Details
 - **Frontend (React.js + Bootstrap 5):** $150  
