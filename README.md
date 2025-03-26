@@ -1,11 +1,14 @@
 # Job Posting for Interns v1.0
 
-## Technologies Used
-- **Backend:** 
-- **Frontend:** 
-- **Database:** 
+**Budget** : 20K INR
+**Timeline** : should be less than 20 days
 
-## Project Overview
+## Technologies Used
+- **Backend:**  (share me your preference)
+- **Frontend:**  (share me your preference)
+- **Database:**  (share me your preference)
+
+## Project Overview/features (high level)
 
 ### Student Workflow
 1. **Landing Page** – Students arrive at the homepage to learn about the platform and sign up.  
@@ -19,7 +22,9 @@
 9. **Schedule Interviews** – Students can select available slots for interviews through the platform.  
 10. **Attend Interviews** – Conduct online or offline interviews as per employer preferences.  
 11. **Receive Job Offers** – Students can review and accept/reject job offers through the platform.  
-12. **Sign Out** – Secure logout from the platform.  
+12. **Sign Out** – Secure logout from the platform.
+13. Dashboard - Give a overall status of the student with profile details
+
 
 ### Employer Workflow
 1. **Landing Page** – Employers visit the homepage to explore platform benefits.  
@@ -33,14 +38,22 @@
 9. **Send Job Offers** – Employers send job offers to selected candidates.  
 10. **Manage Hired Employees** – Track hired candidates and onboarding processes.  
 11. **Make Payments (Optional)** – Employers can access premium features, job boosts, or candidate profiles.  
-12. **Sign Out** – Secure logout from the platform.  
+12. **Sign Out** – Secure logout from the platform.
+13. **Dashboard** - Give a overall status employer
 
+### Admin Workflow
+1. List of students and employers details
+2. Transaction details
+3. Site settings
+4. Error logs with search feature
+   
 ## Additional Features
 - **Notifications** – Automated alerts for students and employers regarding job applications and matches.  
 - **Chat System** – Integrated communication between students and employers.  
 - **Admin Panel** – Centralized management for users, job postings, and payments.
 - **Payment Gatewya Integration** - Integrate with Paypal and Razorpay. 
-
+- **API documentation using Swagger**
+  
 ## Development Details
 - **Frontend (React.js + Bootstrap 5):** $150  
 - **Backend & Admin System (Node.js):** $350  
