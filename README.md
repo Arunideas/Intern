@@ -55,8 +55,7 @@
 - **API documentation using Swagger**
   
 ## Development Details
-- **Frontend (React.js + Bootstrap 5):** $150  
-- **Backend & Admin System (Node.js):** $350  
+
 - **Total Development Timeline:** 10 days  
 - **Free Server Deployment**  
 - **3 Month Free Bug fix**
