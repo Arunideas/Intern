@@ -51,12 +51,12 @@
 - **Notifications** – Automated alerts for students and employers regarding job applications and matches.  
 - **Chat System** – Integrated communication between students and employers.  
 - **Admin Panel** – Centralized management for users, job postings, and payments.
-- **Payment Gatewya Integration** - Integrate with Paypal and Razorpay. 
+- **Payment Gatewya Integration** - Integrate with stripe and Razorpay. 
 - **API documentation using Swagger**
   
 ## Development Details
 
-- **Total Development Timeline:** 10 days  
+- **Total Development Timeline:** 15 days  
 - **Free Server Deployment**  
 - **6 Month Free Bug fix**
 
