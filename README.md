@@ -4,9 +4,9 @@
 **Timeline** : should be less than 20 days
 
 ## Technologies Used
-- **Backend:**  (share me your preference)
-- **Frontend:**  (share me your preference)
-- **Database:**  (share me your preference)
+- **Backend:**  NESTJS
+- **Frontend:**  NEXTJS
+- **Database:**  MongoDB
 
 ## Project Overview/features (high level)
 
@@ -58,6 +58,6 @@
 
 - **Total Development Timeline:** 10 days  
 - **Free Server Deployment**  
-- **3 Month Free Bug fix**
+- **6 Month Free Bug fix**
 
-## If you can work on this project as per the budget and timeline , please bid here -> https://www.freelancer.in/projects/php/Speedy-Internship-Job-Portal-Development
+
