@@ -4,8 +4,8 @@
 **Timeline** : should be less than 20 days
 
 ## Technologies Used
-- **Backend:**  NESTJS
-- **Frontend:**  NEXTJS
+- **Backend:**  
+- **Frontend:**  
 - **Database:**  MongoDB
 
 ## Project Overview/features (high level)
