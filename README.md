@@ -17,13 +17,12 @@
 4. **Search Jobs** – Browse and filter job listings posted by employers.  
 5. **Apply for Jobs** – Submit applications directly through the platform.  
 6. **Track Application Status** – Monitor the status of applied jobs (Pending, Accepted, Rejected, etc.).  
-7. **Make Payments (Optional)** – Access premium features or paid services if desired.  
-8. **Receive Interview Requests** – Students get notified if an employer is interested in interviewing them.  
-9. **Schedule Interviews** – Students can select available slots for interviews through the platform.  
-10. **Attend Interviews** – Conduct online or offline interviews as per employer preferences.  
-11. **Receive Job Offers** – Students can review and accept/reject job offers through the platform.  
-12. **Sign Out** – Secure logout from the platform.
-13. Dashboard - Give a overall status of the student with profile details
+7. **Make Payments** – Option to make the payment for attending the assessment.
+8. Take Assessments online (Embed another website)
+9. **Receive Interview Requests** – Students get notified if an employer is interested in interviewing them.  
+10. **Receive Job Offers** – Students can review and accept/reject job offers through the platform.  
+11. **Sign Out** – Secure logout from the platform.
+12. Dashboard - Give an overall status of the student with profile details
 
 
 ### Employer Workflow
@@ -33,9 +32,9 @@
 4. **Post Job Requirements** – List job openings with role details, required skills, and salary information.  
 5. **Track Application Status** – Manage and review received applications via the homepage.  
 6. **Shortlist Candidates** – Employers can mark applicants they want to interview.  
-7. **Schedule Interviews** – Employers set available slots for interviews.  
-8. **Conduct Interviews** – Employers can conduct online or offline interviews.  
-9. **Send Job Offers** – Employers send job offers to selected candidates.  
+7. **Schedule Interviews** – Employers set available slots for interviews.
+8. **Feedback Mgmt** - option to give feedback to selected Interns.
+9. **Send Job Offers** – Employers send job offers to selected candidates via email and the same will be visible in the Website.
 10. **Manage Hired Employees** – Track hired candidates and onboarding processes.  
 11. **Make Payments (Optional)** – Employers can access premium features, job boosts, or candidate profiles.  
 12. **Sign Out** – Secure logout from the platform.
